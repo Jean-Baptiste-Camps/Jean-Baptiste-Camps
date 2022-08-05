@@ -1,6 +1,8 @@
 ## About me 
 
-Hi there 👋 ! My name is *Jean-Baptiste Camps* and I'm an Associate Professor in Computational Philology at the École des chartes. I like to code in R, Python or XSLT, and am interested in computational text analysis and IA for building large text corpora.
+Hi there 👋 ! My name is *Jean-Baptiste Camps* and I'm an Associate Professor in Computational Philology at the École des chartes ([profile](https://github.com/chartes/)), where I lead the MA in Digital Humanities for Université PSL ([profile](https://github.com/Humanites-Numeriques-PSL/)). 
+
+I like to code in **R**, **Python** or **XSLT**, and am interested in computational text analysis and IA for building large text corpora.
 
 You might perhaps know me from my work on [Corneille and Molière](https://www.science.org/doi/10.1126/sciadv.aax5489) or [QAnon](https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html).
 
